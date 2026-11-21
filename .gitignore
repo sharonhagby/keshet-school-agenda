@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+/service-account.json
+/.sheet-snapshot.json
+/public/data/grade-*.json
+/public/data/revision.json
+/public/data/.sync-*/
